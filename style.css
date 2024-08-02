@@ -1,0 +1,146 @@
+
+
+
+header{
+    background:blue ;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+nav{
+    background-color:blue;
+    float:inline-end;
+    height: auto;
+    margin: auto;
+}
+li :hover{
+    background-color: blue(50, 155, 247);
+    
+}
+.sect1{
+    background-color: blue;
+}
+.s1img{
+    background-color: rgb(27, 11, 250);
+    margin: 0 auto;
+    width: 30%;
+    height: 50%;
+    border-radius: 25%;
+    margin-top: 2%;
+   
+}
+.bt{
+        
+   display: flex;
+    width: auto;
+    height: auto;
+    margin: auto;
+    
+
+}
+.sect2{
+    background-color:white;
+   
+}
+
+.sect3{
+    background: blue;
+   
+}
+
+.im6{
+    display: flex;
+}
+
+
+
+
+.sect4{
+    
+    background:white;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+
+.sect5{
+    
+    background: white;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+.nano{
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+.sect6{
+    width: 100%;
+    margin: 0 auto;
+    background-color: blue;
+
+}
+.icone{
+    display: flex;
+    margin: 0 auto;
+
+}
+
+h2{
+    color: navy;
+    margin-left: 5px;
+}
+
+.p1{
+    color: rgb(67, 153, 251);
+    width: 60%;
+    margin: 0 auto;
+}
+
+h4{
+    color:navy ;
+    margin-left: 5px;
+
+}
+h5{
+    color:navy ;
+    margin-left: 5px;
+
+}
+
+.contact form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+    
+}
+
+.contact label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+.contact input, .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 20px;
+    border: 1px solid #ccc;
+}
+
+.contact button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+} 
